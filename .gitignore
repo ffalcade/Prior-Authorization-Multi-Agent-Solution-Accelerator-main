@@ -35,6 +35,6 @@ nul
 *.pdf
 backend/*_result.json
 
-SKILL.md
+# SKILL.md
 docs/blog-post.md
 docs/*.pptx
